@@ -4,9 +4,9 @@ I am focused on Network Engineering & Web Operations. I build and maintain web i
 
 You can explore my technical documentation, ongoing projects, and automation scripts/utilities below:
 
-- [View Technical Documentation](./TechDocs/README.md) – Lab configurations and infrastructure runbooks.
-- [Browse My Ongoing Projects](./Projects/README.md) – Current development and deployment experiments.
-- [Automation Scripts](./Scripts/README.md) PowerShell/Batch toolsets for system administration.
+- **View Technical Documentation** (On-going) – Lab configurations and infrastructure runbooks.
+- **Browse My Ongoing Projects** (On-going) – Current development and deployment experiments.
+- **Automation Scripts** (On-going) PowerShell/Batch toolsets for system administration.
 
 
 ### 🛠 Technical Tools:
